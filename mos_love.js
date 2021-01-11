@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         鼠标单击心型特效
-// @namespace    /
-// @version      0.1
-// @description  萌哒哒的特效
-// @author       陈YF
-// @match        *://*/*
-// @grant        none
-// ==/UserScript==
-
 (function(window,document,undefined){
 			var hearts = [];
 			window.requestAnimationFrame = (function(){
